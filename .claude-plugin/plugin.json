@@ -1,0 +1,10 @@
+{
+  "name": "student-kit",
+  "description": "The complete AI study partner. Study planning, exam prep, essay help, note organization, deadline tracking, and daily productivity — built for students who want better grades with less stress.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lukas Glarborg"
+  },
+  "homepage": "https://github.com/lukasglarborg/student-kit",
+  "license": "MIT"
+}
